@@ -10,7 +10,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][linkedin](https://www.linkedin.com/in/vadim-trubay-146607257)
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

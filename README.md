@@ -2,15 +2,14 @@
 ### Hi 👋, I am Vadim Trubay! 
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Site&logoColor=white&link=https://VadimTrubay.github.io/)](https://VadimTrubay.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VadimTrubay/)](https://www.linkedin.com/in/vadim-trubay-146607257)
+[Visit My Site](https://VadimTrubay.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/VadimTrubay/)](https://linkedin.com/in/vadim-trubay-146607257)
 [![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin](https://www.linkedin.com/in/vadim-trubay-146607257)
+- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

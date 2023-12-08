@@ -1,65 +1,46 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Python Developers!
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-> https://VadimTrubay.github.io
+<!-- <h3> नमस्ते Hi🙏🏻, I am Vadim Trubay 👋</h3> -->
+### Hi🙏🏻, I am Vadim Trubay 👋
+[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VadimTrubay/)](https://www.linkedin.com/in/VadimTrubay/)
+[![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com) 
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://VadimTrubay.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
+
+- 🎯 Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+
+### Languages and Tools: 
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br>
+<br>
+
+### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+
+
+### :zap: Github Stats
+<p>
+    <a href="https://gitstats.me/VadimTrubay" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=VadimTrubay&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+    </a>
 </p>
 
-:star: Star me on GitHub — it helps!
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTrubay&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
-
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `VadimTrubay.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
-
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
-
-To view a live example, **[click here](https://VadimTrubay.github.io/)**
-
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
-
-## Contributing 💡
-#### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+<!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/VadimTrubay

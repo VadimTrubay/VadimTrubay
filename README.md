@@ -1,8 +1,9 @@
 <!-- <h1>Hi Hi 👋, I am Vadim Trubay! </h1> -->
 ### Hi 👋, I am Vadim Trubay! 
 
-https://VadimTrubay.github.io/
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://VadimTrubay.github.io/)](https://VadimTrubay.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VadimTrubay/)](https://www.linkedin.com/in/vadim-trubay-146607257)
 [![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com) 
 

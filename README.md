@@ -1,6 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-<!-- <h3>Hi Hi 👋, I am Vadim Trubay! </h3> -->
+<!-- <h1>Hi Hi 👋, I am Vadim Trubay! </h1> -->
 ### Hi 👋, I am Vadim Trubay! 
 
 https://VadimTrubay.github.io/
@@ -32,6 +30,8 @@ https://VadimTrubay.github.io/
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
+
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
 ### :zap: Github Stats

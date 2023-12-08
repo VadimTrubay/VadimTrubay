@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते Hi🙏🏻, I am Vadim Trubay 👋</h3> -->
-### Hi🙏🏻, I am Vadim Trubay 👋
+<!-- <h3>Hi Hi 👋, I am Vadim Trubay! </h3> -->
+### Hi 👋, I am Vadim Trubay! 
 
 https://VadimTrubay.github.io/
 
@@ -40,6 +40,8 @@ https://VadimTrubay.github.io/
         <img src="https://github-readme-stats.vercel.app/api?username=VadimTrubay&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VadimTrubay)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTrubay&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">

@@ -48,9 +48,10 @@
 
 [//]: # (</p>)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VadimTrubay)](https://github.com/ryo-ma/github-profile-trophy)
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=VadimTrubay&#41;]&#40;https://github.com/ryo-ma/github-profile-trophy&#41;)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTrubay&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[//]: # ()
+[//]: # (<!-- [![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTrubay&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41; -->)
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>

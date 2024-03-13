@@ -13,11 +13,11 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="50px" src="png/Python.png" />
 <img align="left" alt="HTML5" width="50px" src="png/JS.png" />
-<img align="left" alt="HTML5" width="50px" src="" />
-<img align="left" alt="HTML5" width="50px" src="" />
+<img align="left" alt="HTML5" width="50px" src="png/React.png" />
+<img align="left" alt="HTML5" width="50px" src="png/Node.png" />
 
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />

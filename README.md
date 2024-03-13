@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="50px" src="png/Python.png" />
+<img align="left" alt="HTML5" width="250px" src="png/Python.png" />
 <img align="left" alt="HTML5" width="50px" src="png/JS.png" />
 <img align="left" alt="HTML5" width="50px" src="png/React.png" />
 <img align="left" alt="HTML5" width="50px" src="png/Node.png" />

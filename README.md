@@ -13,40 +13,40 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="200px" src="png/Pythonn.png" />
-<img align="left" alt="HTML5" width="50px" src="png/JS.png" />
-<img align="left" alt="HTML5" width="50px" src="png/React.png" />
-<img align="left" alt="HTML5" width="50px" src="png/Node.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br>
-
-[//]: # "<br>"
-[//]: #
-[//]: # "### Things I love:"
-[//]: # '- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> '
-[//]: # "- Backend Development ✍️"
-[//]: # "[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) "
-[//]: # "### :zap: Github Stats"
-[//]: # "<p>"
-[//]: # '    <a href="https://gitstats.me/VadimTrubay" target="_blank"> '
-[//]: # '        <img src="https://github-readme-stats.vercel.app/api?username=VadimTrubay&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">'
-[//]: # "    </a>"
-[//]: # "</p>"
-[//]: # "[![trophy](https://github-profile-trophy.vercel.app/?username=VadimTrubay)](https://github.com/ryo-ma/github-profile-trophy)"
-[//]: #
-[//]: # "<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadimTrubay&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->"
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+<img src="./images/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
+<img src="./images/typescript-original.svg"  title="TS" alt="TS" width="40" height="40"/>&nbsp;
+<img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="./images/react-native-original.png"  title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+<img src="./images/bem-original.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
+<img src="./images/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+<img src="./images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="./images/github-original.svg" title="GitHub"  alt="GitHub" width="40"/>&nbsp;
+<img src="./images/gitlab-original.svg" title="GitLub" alt="GitLub" width="40" height="40"/>&nbsp;
+<img src="./images/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+<img src="./images/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+<img src="./images/parcel-original.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
+<img src="./images/npm-original.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+<img src="./images/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
+<img src="./images/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>&nbsp;
+<img src="./images/browserslist-original.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
+<img src="./images/handlebars-original.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
+<img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
+<img src="./images/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+<img src="./images/emotion-original.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+<img src="./images/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+<img src="./images/styled-components.png" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
+<img src="./images/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+<img src="./images/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+<img src="./images/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="./images/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="./images/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+&nbsp;
+<img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="./images/photoshop-original.png" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
 <!--[website]: -->

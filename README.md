@@ -41,7 +41,7 @@ In addition, I am familiar with Agile and Scrum methodologies.
 <img src="./images/webstorm-original.svg" title="webstorm-original" alt="webstorm-original" width="40" height="40"/>
 <img src="./images/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
 <img src="./images/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="./images/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="./images/node-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="./images/redux-original.svg"  title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;

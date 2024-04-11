@@ -2,6 +2,23 @@
 
 ### Hi 👋, I am Vadim Trubay!
 
+### 👨‍💻 About Me :
+
+I am a backend Python developer and
+I'm currently studying a Javascript Full-Stack development course. <br>
+My project experience includes team and individual projects where I have worked with technologies such as
+**Python**,
+**JavaScript**,
+**Django**,
+**Flash**,
+**FastApi**,
+**React.js**,
+**Node.js**,
+**Next.js**,
+**HTML5**,
+**CSS3**. <br>
+In addition, I am familiar with Agile and Scrum methodologies.
+
 [Visit My Site](https://VadimTrubay.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vadim-trubay-146607257)](https://linkedin.com/in/vadim-trubay-146607257)

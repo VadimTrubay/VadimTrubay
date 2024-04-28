@@ -27,8 +27,7 @@ In addition, I am familiar with Agile and Scrum methodologies.
 
 - 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend.pdf)
 - 🎯 My Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch! - Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
+- 📬 My Linkedin: [Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
 
 ### Languages and Tools:
 

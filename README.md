@@ -19,13 +19,13 @@ My project experience includes team and individual projects where I have worked 
 **CSS3**. <br>
 In addition, I am familiar with Agile and Scrum methodologies.
 
-[Visit My Site](https://VadimTrubay.github.io/)
-[Download CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend.pdf)
+*[Visit My Site](https://VadimTrubay.github.io/)
+*[Download CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend_developer.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vadim-trubay-146607257)](https://linkedin.com/in/vadim-trubay-146607257)
 [![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com)
 
-- 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend.pdf)
+- 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend_developer.pdf)
 - 🎯 My Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
 - 📬 My Linkedin: [Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
 

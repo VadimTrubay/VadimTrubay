@@ -4,8 +4,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a backend Python developer and
-I'm currently studying a Javascript Full-Stack development course. <br>
+I am a Python backend developer and Javascript Full-Stack developer. <br>
 My project experience includes team and individual projects where I have worked with technologies such as
 **Python**,
 **JavaScript**,
@@ -14,7 +13,6 @@ My project experience includes team and individual projects where I have worked 
 **FastApi**,
 **React.js**,
 **Node.js**,
-**Next.js**,
 **HTML5**,
 **CSS3**. <br>
 In addition, I am familiar with Agile and Scrum methodologies.

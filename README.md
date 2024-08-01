@@ -26,11 +26,11 @@ In addition, I am familiar with Agile and Scrum methodologies.
 - 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend_developer.pdf)
 - 🎯 My Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
 - 📬 My Linkedin: [Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/languages.svg#gh-light-mode-only)
 
 ### Languages and Tools:
 

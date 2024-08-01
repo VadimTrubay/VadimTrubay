@@ -59,3 +59,6 @@ In addition, I am familiar with Agile and Scrum methodologies.
 
 ![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/languages.svg#gh-light-mode-only)

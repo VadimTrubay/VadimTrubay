@@ -56,3 +56,6 @@ In addition, I am familiar with Agile and Scrum methodologies.
 <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
 <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <!--[website]: -->
+
+![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-light-mode-only)

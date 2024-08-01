@@ -26,14 +26,8 @@ In addition, I am familiar with Agile and Scrum methodologies.
 - 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend_developer.pdf)
 - 🎯 My Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
 - 📬 My Linkedin: [Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/git-stats/main/generated/languages.svg#gh-light-mode-only)
-
+- 
 ### Languages and Tools:
-
 <img src="./images/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="./images/typescript-original.svg"  title="TS" alt="TS" width="40" height="40"/>&nbsp;
@@ -61,3 +55,9 @@ In addition, I am familiar with Agile and Scrum methodologies.
 <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
 <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <!--[website]: -->
+
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadimTrubay/git-stats/master/generated/languages.svg#gh-light-mode-only)
